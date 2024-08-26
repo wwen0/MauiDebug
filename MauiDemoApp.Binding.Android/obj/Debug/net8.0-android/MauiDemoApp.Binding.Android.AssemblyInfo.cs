@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiDemoApp.Binding.Android")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12daf86d488ad65617b5ad76b3d84ab631d2a16a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiDemoApp.Binding.Android")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiDemoApp.Binding.Android")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
