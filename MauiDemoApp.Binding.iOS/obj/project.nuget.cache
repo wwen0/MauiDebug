@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGNk5xM5jZ0=",
+  "success": true,
+  "projectFilePath": "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/MauiDemoApp.Binding.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/weiwen/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

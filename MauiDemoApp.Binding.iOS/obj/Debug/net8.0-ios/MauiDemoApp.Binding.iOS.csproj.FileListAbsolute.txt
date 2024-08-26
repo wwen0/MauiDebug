@@ -1,0 +1,13 @@
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/bin/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.resources.stamp
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/bin/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.dll
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/bin/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.pdb
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/_ProcessedBundleResourcesPath.items
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/_ProcessedContentPath.items
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.AssemblyInfoInputs.cache
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.AssemblyInfo.cs
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.csproj.CoreCompileInputs.cache
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.dll
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/refint/MauiDemoApp.Binding.iOS.dll
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/MauiDemoApp.Binding.iOS.pdb
+/Users/wewenz/Documents/Code/Maui/Maui8/MauiDemoApp.Binding.iOS/obj/Debug/net8.0-ios/ref/MauiDemoApp.Binding.iOS.dll

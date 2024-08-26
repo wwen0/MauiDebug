@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.Android/MauiDemoApp.Binding.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.Android/MauiDemoApp.Binding.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.Android/MauiDemoApp.Binding.Android.csproj",
+        "projectName": "MauiDemoApp.Binding.Android",
+        "projectPath": "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.Android/MauiDemoApp.Binding.Android.csproj",
+        "packagesPath": "/Users/weiwen/.nuget/packages/",
+        "outputPath": "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.Android/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/weiwen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-android"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-android34.0": {
+            "targetAlias": "net8.0-android",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-android34.0": {
+          "targetAlias": "net8.0-android",
+          "dependencies": {
+            "GoogleGson": {
+              "target": "Package",
+              "version": "[2.11.0.1, )"
+            },
+            "Xamarin.AndroidX.Fragment": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "Xamarin.AndroidX.Fragment.Ktx": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[118.5.0.1, )"
+            },
+            "Xamarin.GooglePlayServices.Basement": {
+              "target": "Package",
+              "version": "[118.4.0.1, )"
+            },
+            "Xamarin.GooglePlayServices.Tasks": {
+              "target": "Package",
+              "version": "[118.2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26;ANDROID_27;ANDROID_28;ANDROID_29;ANDROID_30;ANDROID_31;ANDROID_32;ANDROID_33;ANDROID_34</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.AbstractAd.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.Ad.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.AdDelegate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.AdRequest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.ContentLoadingTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.DisplayHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.Honeycomb.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.HoneycombProxy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.Interstitial.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.InterstitialActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.InterstitialAd.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.InterstitialWebActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.InterstitialWebBrowser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.LaggingActivity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.MRAIDWebView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.IA.Android.Sdk.TagProcessResult.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.ActivityLifecycleListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Ads.SASCollectorAd.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Ads.SASCollectorInterstitialAd.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.BuildInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Database.EventsDataSource.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Database.EventsSQLiteHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.DeviceAndApplicationInfoHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.AdRequestRedirect.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.AppEnvironment.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.ErrorData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.EventList.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.GeofenceContainer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.IdentityData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.IVersionedAPIData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.MobileEvent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.PushData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.SessionData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.SimpleBeacon.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.SimpleGeofence.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.TokenData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Domain.VersionedAPIDataAttribute.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.ID.IDProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.ID.UUIDProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.InternalSingleton.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.JsonHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Loc.GeofenceManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Loc.LocationHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.MobileEventConstants.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.MonitoredApplication.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.MonitoredMultiDexApplication.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Offline.OfflineEventManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.SASCollector.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.SASCollectorBroadcastReceiver.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.SASCollectorEvent.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.SASCollectorException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.SASCollectorNotInitializedException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Server.HttpURLConnectionFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Server.MidtierServices.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Server.MidtierServicesException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Server.MidtierServicesFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.AdRequestRedirectTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.BaseSASCollectorTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.CleanRemoteImagesTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.DetachIdentity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.DownloadRemoteImageTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.IdentityTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.LoadGeofencesTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.PersistEventsTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.PostEventsTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.QueueEventTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.SASCollectorExecutor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.SecureStorageTask.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Tasks.UpdateToken.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Util.AndroidXorIdProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Util.CropImageView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Util.ImageHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Util.SecureStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Util.SLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Util.StringUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Com.Sas.Mkt.Mobile.Sdk.Util.TLSSocketFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>
