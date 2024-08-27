@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiDemoApp.Binding.iOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12daf86d488ad65617b5ad76b3d84ab631d2a16a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+204d8f1aba3eafc67556531b5ebf44c8e4f1339f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiDemoApp.Binding.iOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiDemoApp.Binding.iOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
