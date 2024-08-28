@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/MauiDemoApp.Binding.iOS.csproj",
-        "projectName": "MauiDemoApp.Binding.iOS",
+        "projectName": "Com.SAS.CI360",
         "projectPath": "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/MauiDemoApp.Binding.iOS.csproj",
         "packagesPath": "/Users/weiwen/.nuget/packages/",
         "outputPath": "/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/",

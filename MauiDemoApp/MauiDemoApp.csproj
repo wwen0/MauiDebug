@@ -69,11 +69,9 @@
 		</Reference>
 	</ItemGroup>
 
-
-	<ItemGroup>
-		<Reference Include="MauiDemoApp.Binding.iOS" Condition=" '$(TargetPlatformIdentifier)' == 'ios' ">
-			<HintPath>..\MauiDemoApp.Binding.iOS\MauiDemoApp.Binding.iOS.csproj</HintPath>
-		</Reference>
-	</ItemGroup>
+<ItemGroup Condition=" '$(TargetPlatformIdentifier)' == 'ios' ">
+	<ProjectReference Include="..\MauiDemoApp.Binding.iOS\MauiDemoApp.Binding.iOS.csproj" />
+</ItemGroup>
+	
 
 </Project>

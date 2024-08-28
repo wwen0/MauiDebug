@@ -1,0 +1,14 @@
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/bin/Debug/net7.0-ios/Com.SAS.CI360.resources.stamp
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/bin/Debug/net7.0-ios/Com.SAS.CI360.dll
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/bin/Debug/net7.0-ios/Com.SAS.CI360.pdb
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/_ProcessedBundleResourcesPath.items
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/_ProcessedContentPath.items
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/MauiDemoApp.Binding.iOS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/MauiDemoApp.Binding.iOS.AssemblyInfoInputs.cache
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/MauiDemoApp.Binding.iOS.AssemblyInfo.cs
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/MauiDemoApp.Binding.iOS.csproj.CoreCompileInputs.cache
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/MauiDemoApp.Binding.iOS.sourcelink.json
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/Com.SAS.CI360.dll
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/refint/Com.SAS.CI360.dll
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/Com.SAS.CI360.pdb
+/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.iOS/obj/Debug/net7.0-ios/ref/Com.SAS.CI360.dll

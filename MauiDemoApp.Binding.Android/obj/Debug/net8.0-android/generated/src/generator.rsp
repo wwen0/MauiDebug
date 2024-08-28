@@ -4,7 +4,7 @@
 --enummetadata="obj/Debug/net8.0-android/generated/metadata"
 --assembly=MauiDemoApp.Binding.Android
 --ref="/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.8/ref/net8.0/mscorlib.dll"
---ref="/Users/weiwen/Documents/Code/Microsoft.NET/Maui8/MauiDemoApp.Binding.Android/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll"
+--ref="/Users/weiwen/Documents/Code/Microsoft.NET/MauiDebug/MauiDemoApp.Binding.Android/obj/Debug/net8.0-android/_Microsoft.Android.Resource.Designer.dll"
 --ref="/Users/weiwen/.nuget/packages/googlegson/2.11.0.1/lib/net8.0-android34.0/GoogleGson.dll"
 --ref="/usr/local/share/dotnet/packs/Microsoft.Android.Ref.34/34.0.113/ref/net8.0/Java.Interop.dll"
 --ref="/usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/8.0.8/ref/net8.0/Microsoft.CSharp.dll"

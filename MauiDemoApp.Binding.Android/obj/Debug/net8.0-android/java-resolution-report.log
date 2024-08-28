@@ -1,0 +1,12 @@
+==== Cycle 1 ====
+
+The class '[Class] com.sas.mkt.mobile.sdk.JsonHandler.GmtDateTypeAdapter' was removed because the Java implemented interface type 'com.google.gson.JsonSerializer<java.util.Date>' could not be found.
+The method '[Method] void showInAppFragment(androidx.fragment.app.FragmentManager p0)' was removed because the Java parameter type 'androidx.fragment.app.FragmentManager' could not be found.
+The class '[Class] com.sas.mkt.mobile.sdk.iam.LargeMessageFragmentX' was removed because the Java base type 'androidx.fragment.app.DialogFragment' could not be found.
+The class '[Class] com.sas.mkt.mobile.sdk.iam.SmallMessageFragmentX' was removed because the Java base type 'androidx.fragment.app.Fragment' could not be found.
+The class '[Class] com.sas.mkt.mobile.sdk.loc.GeofenceManager.1' was removed because the Java implemented interface type 'com.google.android.gms.tasks.OnCompleteListener<java.lang.Void>' could not be found.
+
+==== Cycle 2 ====
+
+The class '[Class] com.sas.mkt.mobile.sdk.loc.GeofenceManager.2' was removed because the Java implemented interface type 'com.google.android.gms.tasks.OnCompleteListener<java.lang.Void>' could not be found.
+
