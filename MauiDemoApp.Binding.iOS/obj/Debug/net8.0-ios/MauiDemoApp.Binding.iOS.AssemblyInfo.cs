@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Com.SAS.CI360")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da283d553c51d9205a0935f2cea3266bc8fc0e1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7144bd6bf99851e870174ec78cfd18bc1013fcbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Com.SAS.CI360")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Com.SAS.CI360")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
