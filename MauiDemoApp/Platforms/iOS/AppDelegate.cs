@@ -1,6 +1,6 @@
 ﻿using Foundation;
 using UIKit;
-// using Com.SAS.CI360;
+using Com.SAS.CI360;
 
 
 namespace MauiDemoApp;
@@ -10,7 +10,7 @@ public class AppDelegate : MauiUIApplicationDelegate
 {
 	public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
 	{
-		
+		SASCollector.InitializeCollection();
 		return base.FinishedLaunching(application, launchOptions);
 	}
 	
