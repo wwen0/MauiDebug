@@ -69,9 +69,9 @@
 		</Reference>
 	</ItemGroup>
 
-<ItemGroup Condition=" '$(TargetPlatformIdentifier)' == 'ios' ">
-	<ProjectReference Include="..\MauiDemoApp.Binding.iOS\MauiDemoApp.Binding.iOS.csproj" />
-</ItemGroup>
+	<ItemGroup Condition=" '$(TargetPlatformIdentifier)' == 'ios' ">
+		<Reference Include="../MauiDemoApp.Binding.iOS/bin/Debug/net8.0-ios/Com.SAS.CI360.dll" />
+	</ItemGroup>
 	
 
 </Project>
