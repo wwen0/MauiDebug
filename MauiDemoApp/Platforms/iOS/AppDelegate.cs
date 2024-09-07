@@ -10,6 +10,7 @@ public class AppDelegate : MauiUIApplicationDelegate
 {
 	public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
 	{
+ 		SASLogger.SetLevel(SASLoggerLevel.All);
 		SASCollector.InitializeCollection();
 		return base.FinishedLaunching(application, launchOptions);
 	}
