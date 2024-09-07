@@ -19,10 +19,10 @@
     <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
   </ItemGroup>
   <ItemGroup>
-    <NativeReference Include="SASCollector.xcframework">
+    <NativeReference Include="SASCollector.framework">
       <Kind>Framework</Kind>
       <SmartLink>False</SmartLink>
-      <Forceload>true</Forceload>
+      <Forceload>True</Forceload>
     </NativeReference>
   </ItemGroup>
 </Project>
